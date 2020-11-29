@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `yarn install or npm install`
+### `yarn install` or `npm install`
 
 Checks for Packages and install them if needed.
 
